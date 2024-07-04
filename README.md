@@ -21,7 +21,7 @@ This application serves as an educational resource for students and individuals 
 
 ## Technology Stack
 
-- **Frontend**: Created using HTML, CSS, and JavaScript.
+- **Frontend**: Created using React, HTML, CSS, and JavaScript.
 - **Backend**: Utilizes Node.js and the Express framework to handle server-side logic, user session management, and API responses.
 - **Database**: Uses MongoDB for storing user information, game data, and transaction records efficiently.
 - **Authentication**: Implements JWT for secure authentication, ensuring that all user sessions are secure.
