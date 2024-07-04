@@ -26,7 +26,6 @@ This application serves as an educational resource for students and individuals 
 - **Database**: Uses MongoDB for storing user information, game data, and transaction records efficiently.
 - **Authentication**: Implements JWT for secure authentication, ensuring that all user sessions are secure.
 - **Market Data Integration**: Connects to financial market data APIs to retrieve real-time or historical data for stocks.
-Creating a README for your project involves detailing the purpose, setup, and usage of your application to guide others who might want to use or contribute to it. Here is a structured README for your project based on the provided information and typical sections found in software documentation.
 
 - **Since it is a university project, I would only be able to share video demonstration of my project which can be viewed from my drive. https://drive.google.com/file/d/1Db8VEfiCWojY_GT0q-pHxtXyv61tJR-a/view?usp=sharing**
 
